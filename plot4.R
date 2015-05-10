@@ -43,7 +43,7 @@ with(energy, {
 
 
 
-##plot(energy$gTime,energy$Global_active_power,"l",xlab="",ylab="Global Active Power (kilowatts)")
+
 
 ##close png device
 dev.off()
